@@ -1,7 +1,10 @@
 # Simple Twitter Bot
 
 Simple bot that was created of a sheer boredom. I'm waaaay to lazy to host it.
-Code won't work untill provided with correct config(Add your API key and secret)
+
+#General Information
+
+Code won't work untill provided with correct config(Add your API key and secret) #congfig.py
 
 
 ## Features
