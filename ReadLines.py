@@ -19,14 +19,3 @@ with open("TwitterBot\Quotes.txt", "r", encoding="utf8") as quotes:
         except tweepy.errors.BadRequest:
             print("tweepy.errors.BadRequest: Quote too long") #tweepy.errors.BadRequest: 400 Bad Request
             n += 1
-
-
-   
-    
-        
-
-
-
-
-
-
